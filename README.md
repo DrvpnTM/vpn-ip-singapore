@@ -1,18 +1,17 @@
-# VPN IP Singapore — Dr VPN
+# VPN IP Singapore — Fast, Secure VPN for Singapore
 
-**VPN IP Singapore** is a fast, secure and free VPN for Android. Get a **Singapore IP address**, unblock websites and apps, and protect your privacy on public Wi-Fi.
+**VPN IP Singapore** is a free, open-source, ad-free VPN app for Android, built for users in Singapore. It unblocks websites and apps, protects your privacy on public Wi-Fi, and gives you a fast, stable connection.
 
 ## Download
-- 📥 [Download VPN IP Singapore (APK)](https://github.com/DrvpnTM/app/releases/download/countries-v0.1.4/DrVPN_sg_0.1.4_universal.apk)
-- 🌐 Website: [drvpn.net](https://drvpn.net)
-- 📢 Telegram: [@drVPN_net](https://t.me/drVPN_net)
+➡️ [Download the latest APK](https://github.com/DrvpnTM/vpn-ip-singapore/releases/latest)
 
 ## Features
-- One-tap connect, automatic fastest-server selection
-- Singapore IP address and servers in many other countries
-- VLESS, VMess, Trojan, Shadowsocks, Hysteria2, WireGuard
-- Works under heavy internet restrictions
-- Free and open source
+- One-tap connect, automatic server speed test
+- VLESS, VMess, Reality, Trojan, Shadowsocks, Hysteria2, WireGuard
+- Per-app proxy, routing rules, dark mode
+- Automatic updates
 
-## Keywords
-VPN Singapore, Singapore VPN, VPN IP Singapore, Singapore IP address, free VPN Singapore, buy VPN Singapore, fast VPN Singapore, Dr VPN
+## Get a subscription
+🌐 [drvpn.net](https://drvpn.net/) · 📢 [Telegram @drVPN_net](https://t.me/drVPN_net)
+
+<sub>Keywords: VPN Singapore, free VPN Singapore, fast VPN, VPN IP Singapore, Android VPN, unblock websites Singapore.</sub>
